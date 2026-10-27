@@ -1,0 +1,20 @@
+# Secrets
+.env
+.env.*
+
+# Allow a sample configuration file
+!.env.example
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE files
+.idea/
+
+# Logs
+*.log
+
